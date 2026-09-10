@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product_name,category,quantity,unit_price,region,status
+1001,C001,2024-01-05,Wireless Mouse,Electronics,2,25.50,North,completed
+1002,C002,2024-01-06,USB-C Cable,Electronics,5,9.99,South,completed
+1003,C001,2024-01-07,Desk Lamp,Home,1,45.00,North,pending
+1004,C003,2024-01-08,Bluetooth Speaker,Electronics,1,89.99,West,completed
+1005,C004,2024-01-09,Office Chair,Furniture,1,299.00,East,refunded
+1006,C002,2024-01-10,Wireless Mouse,Electronics,2,25.50,South,completed
+1007,C005,,Mechanical Keyboard,Electronics,1,120.00,North,pending
+1008,C003,2024-01-12,Desk Mat,Home,3,18.75,West,completed
+1009,C001,2024-01-13,Monitor Stand,Furniture,2,55.00,North,completed
+1010,C006,2024-01-14,Coffee Mug,Home,4,12.50,East,completed
+1011,C004,2024-01-15,USB-C Cable,Electronics,5,9.99,East,completed
+1012,C002,2024-01-16,Bluetooth Speaker,Electronics,1,89.99,South,pending
+1013,C005,,Desk Lamp,Home,1,45.00,West,refunded
+1014,C001,2024-01-17,Office Chair,Furniture,1,299.00,North,completed
+1015,C006,2024-01-17,Wireless Mouse,Electronics,1,25.50,East,cancelled

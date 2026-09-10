@@ -1,0 +1,35 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/*
+
+# Spark working files
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+# Virtual environments / install artifacts
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local secrets & env
+.env
+.env.*
+!.env.example
+
+# Databricks / machine-local scratch
+*.checkpoint
+.idea/
+.vscode/
