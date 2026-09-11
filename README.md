@@ -1,5 +1,7 @@
 # Databricks PySpark · Medallion ETL Pipeline
 
+[![English](https://img.shields.io/badge/English-blue?style=plastic&logo=openbadges&logoColor=white)](README.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-green?style=plastic&logo=openbadges&logoColor=white)](README-pt-BR.md)
+
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/PySpark-3.5-E25A1C?logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-Compatible-FF3621?logo=databricks&logoColor=white)
